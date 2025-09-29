@@ -1,1 +1,1 @@
-#intengo de reconocimiento de voz
+#Algoritmos
